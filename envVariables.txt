@@ -1,0 +1,3 @@
+NEXT_PUBLIC_API_URL="https://ruby-healthy-snail.cyclic.app/api"
+#NEXT_PUBLIC_API_URL="http://localhost:8080/api"
+NEXT_PUBLIC_GOOGLE_MAPS_API_KEY="AIzaSyDYy05iE9s6xDeX6Mj-eyINH344eE67Aok"
